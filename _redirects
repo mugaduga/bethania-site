@@ -11,4 +11,4 @@
 /privacy/   /privacy.html   301
 
 # Fallback (keep SPA-style navigation from breaking if someone links a path)
-/*          /404.html       404
+
